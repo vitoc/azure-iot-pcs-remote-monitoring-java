@@ -2,7 +2,7 @@
 [![Issues][issues-badge]][issues-url]
 [![Gitter][gitter-badge]][gitter-url]
 
-Pre-configured solution (PCS) for Remote Monitoring with Azure IoT
+Preconfigured Solution (PCS) for Remote Monitoring with Azure IoT
 ==================================================================
 
 This solution is currently in preview. This is an end to end solution that offers
