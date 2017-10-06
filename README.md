@@ -38,7 +38,7 @@ VS Code, etc.).  When running in the cloud the microservices are hosted using
 Azure Container Service (ACS) and Kubernetes as the Container Orchestrator.
 
 <h1 align="center">
-	<img src="https://raw.githubusercontent.com/vitoc/azure-iot-pcs-remote-monitoring-java/2017-10-05-screenshot/docs/assets/images/dashboard.png" alt="dashboard">
+	<img src="https://raw.githubusercontent.com/vitoc/azure-iot-pcs-remote-monitoring-java/2017-10-06-screenshot/docs/assets/images/dashboard.png" alt="dashboard">
 </h1>
 
 How to use it
